@@ -1,0 +1,19 @@
+.cd-wrapper {
+  position: fixed;
+  right: 50px;
+  top: 50px;
+  font-size: 14pt;
+  padding: 2px 15px;
+  color: rgba(0,0,0,0.3);
+  transition: 200ms;
+  background: #f5f5f5;
+}
+
+.cd-wrapper span {
+  font-size: 10pt;
+}
+
+.cd-wrapper:hover {
+  color:black;
+  transition: 200ms;
+}
